@@ -1,0 +1,11 @@
+/Users/brianhaller/Documents/c#_projects/MilesToFeet/bin/Debug/netcoreapp2.1/MilesToFeet.deps.json
+/Users/brianhaller/Documents/c#_projects/MilesToFeet/bin/Debug/netcoreapp2.1/MilesToFeet.runtimeconfig.json
+/Users/brianhaller/Documents/c#_projects/MilesToFeet/bin/Debug/netcoreapp2.1/MilesToFeet.runtimeconfig.dev.json
+/Users/brianhaller/Documents/c#_projects/MilesToFeet/bin/Debug/netcoreapp2.1/MilesToFeet.dll
+/Users/brianhaller/Documents/c#_projects/MilesToFeet/bin/Debug/netcoreapp2.1/MilesToFeet.pdb
+/Users/brianhaller/Documents/c#_projects/MilesToFeet/obj/Debug/netcoreapp2.1/MilesToFeet.csprojAssemblyReference.cache
+/Users/brianhaller/Documents/c#_projects/MilesToFeet/obj/Debug/netcoreapp2.1/MilesToFeet.csproj.CoreCompileInputs.cache
+/Users/brianhaller/Documents/c#_projects/MilesToFeet/obj/Debug/netcoreapp2.1/MilesToFeet.AssemblyInfoInputs.cache
+/Users/brianhaller/Documents/c#_projects/MilesToFeet/obj/Debug/netcoreapp2.1/MilesToFeet.AssemblyInfo.cs
+/Users/brianhaller/Documents/c#_projects/MilesToFeet/obj/Debug/netcoreapp2.1/MilesToFeet.dll
+/Users/brianhaller/Documents/c#_projects/MilesToFeet/obj/Debug/netcoreapp2.1/MilesToFeet.pdb

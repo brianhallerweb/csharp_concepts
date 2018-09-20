@@ -1,0 +1,11 @@
+/Users/brianhaller/Documents/c#_projects/playground/bin/Debug/netcoreapp2.1/playground.deps.json
+/Users/brianhaller/Documents/c#_projects/playground/bin/Debug/netcoreapp2.1/playground.runtimeconfig.json
+/Users/brianhaller/Documents/c#_projects/playground/bin/Debug/netcoreapp2.1/playground.runtimeconfig.dev.json
+/Users/brianhaller/Documents/c#_projects/playground/bin/Debug/netcoreapp2.1/playground.dll
+/Users/brianhaller/Documents/c#_projects/playground/bin/Debug/netcoreapp2.1/playground.pdb
+/Users/brianhaller/Documents/c#_projects/playground/obj/Debug/netcoreapp2.1/playground.csprojAssemblyReference.cache
+/Users/brianhaller/Documents/c#_projects/playground/obj/Debug/netcoreapp2.1/playground.csproj.CoreCompileInputs.cache
+/Users/brianhaller/Documents/c#_projects/playground/obj/Debug/netcoreapp2.1/playground.AssemblyInfoInputs.cache
+/Users/brianhaller/Documents/c#_projects/playground/obj/Debug/netcoreapp2.1/playground.AssemblyInfo.cs
+/Users/brianhaller/Documents/c#_projects/playground/obj/Debug/netcoreapp2.1/playground.dll
+/Users/brianhaller/Documents/c#_projects/playground/obj/Debug/netcoreapp2.1/playground.pdb

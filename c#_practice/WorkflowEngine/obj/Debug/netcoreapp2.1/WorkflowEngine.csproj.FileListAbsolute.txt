@@ -1,0 +1,11 @@
+/Users/brianhaller/Documents/c#_projects/WorkflowEngine/bin/Debug/netcoreapp2.1/WorkflowEngine.deps.json
+/Users/brianhaller/Documents/c#_projects/WorkflowEngine/bin/Debug/netcoreapp2.1/WorkflowEngine.runtimeconfig.json
+/Users/brianhaller/Documents/c#_projects/WorkflowEngine/bin/Debug/netcoreapp2.1/WorkflowEngine.runtimeconfig.dev.json
+/Users/brianhaller/Documents/c#_projects/WorkflowEngine/bin/Debug/netcoreapp2.1/WorkflowEngine.dll
+/Users/brianhaller/Documents/c#_projects/WorkflowEngine/bin/Debug/netcoreapp2.1/WorkflowEngine.pdb
+/Users/brianhaller/Documents/c#_projects/WorkflowEngine/obj/Debug/netcoreapp2.1/WorkflowEngine.csprojAssemblyReference.cache
+/Users/brianhaller/Documents/c#_projects/WorkflowEngine/obj/Debug/netcoreapp2.1/WorkflowEngine.csproj.CoreCompileInputs.cache
+/Users/brianhaller/Documents/c#_projects/WorkflowEngine/obj/Debug/netcoreapp2.1/WorkflowEngine.AssemblyInfoInputs.cache
+/Users/brianhaller/Documents/c#_projects/WorkflowEngine/obj/Debug/netcoreapp2.1/WorkflowEngine.AssemblyInfo.cs
+/Users/brianhaller/Documents/c#_projects/WorkflowEngine/obj/Debug/netcoreapp2.1/WorkflowEngine.dll
+/Users/brianhaller/Documents/c#_projects/WorkflowEngine/obj/Debug/netcoreapp2.1/WorkflowEngine.pdb

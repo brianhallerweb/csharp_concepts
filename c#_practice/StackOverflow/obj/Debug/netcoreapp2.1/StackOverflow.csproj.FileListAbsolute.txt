@@ -1,0 +1,11 @@
+/Users/brianhaller/Documents/c#_projects/StackOverflow/bin/Debug/netcoreapp2.1/StackOverflow.deps.json
+/Users/brianhaller/Documents/c#_projects/StackOverflow/bin/Debug/netcoreapp2.1/StackOverflow.runtimeconfig.json
+/Users/brianhaller/Documents/c#_projects/StackOverflow/bin/Debug/netcoreapp2.1/StackOverflow.runtimeconfig.dev.json
+/Users/brianhaller/Documents/c#_projects/StackOverflow/bin/Debug/netcoreapp2.1/StackOverflow.dll
+/Users/brianhaller/Documents/c#_projects/StackOverflow/bin/Debug/netcoreapp2.1/StackOverflow.pdb
+/Users/brianhaller/Documents/c#_projects/StackOverflow/obj/Debug/netcoreapp2.1/StackOverflow.csprojAssemblyReference.cache
+/Users/brianhaller/Documents/c#_projects/StackOverflow/obj/Debug/netcoreapp2.1/StackOverflow.csproj.CoreCompileInputs.cache
+/Users/brianhaller/Documents/c#_projects/StackOverflow/obj/Debug/netcoreapp2.1/StackOverflow.AssemblyInfoInputs.cache
+/Users/brianhaller/Documents/c#_projects/StackOverflow/obj/Debug/netcoreapp2.1/StackOverflow.AssemblyInfo.cs
+/Users/brianhaller/Documents/c#_projects/StackOverflow/obj/Debug/netcoreapp2.1/StackOverflow.dll
+/Users/brianhaller/Documents/c#_projects/StackOverflow/obj/Debug/netcoreapp2.1/StackOverflow.pdb

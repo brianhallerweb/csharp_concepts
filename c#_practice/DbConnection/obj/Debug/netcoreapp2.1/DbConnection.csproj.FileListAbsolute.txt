@@ -1,0 +1,11 @@
+/Users/brianhaller/Documents/c#_projects/DbConnection/bin/Debug/netcoreapp2.1/DbConnection.deps.json
+/Users/brianhaller/Documents/c#_projects/DbConnection/bin/Debug/netcoreapp2.1/DbConnection.runtimeconfig.json
+/Users/brianhaller/Documents/c#_projects/DbConnection/bin/Debug/netcoreapp2.1/DbConnection.runtimeconfig.dev.json
+/Users/brianhaller/Documents/c#_projects/DbConnection/bin/Debug/netcoreapp2.1/DbConnection.dll
+/Users/brianhaller/Documents/c#_projects/DbConnection/bin/Debug/netcoreapp2.1/DbConnection.pdb
+/Users/brianhaller/Documents/c#_projects/DbConnection/obj/Debug/netcoreapp2.1/DbConnection.csprojAssemblyReference.cache
+/Users/brianhaller/Documents/c#_projects/DbConnection/obj/Debug/netcoreapp2.1/DbConnection.csproj.CoreCompileInputs.cache
+/Users/brianhaller/Documents/c#_projects/DbConnection/obj/Debug/netcoreapp2.1/DbConnection.AssemblyInfoInputs.cache
+/Users/brianhaller/Documents/c#_projects/DbConnection/obj/Debug/netcoreapp2.1/DbConnection.AssemblyInfo.cs
+/Users/brianhaller/Documents/c#_projects/DbConnection/obj/Debug/netcoreapp2.1/DbConnection.dll
+/Users/brianhaller/Documents/c#_projects/DbConnection/obj/Debug/netcoreapp2.1/DbConnection.pdb

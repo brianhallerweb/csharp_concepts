@@ -1,0 +1,10 @@
+
+logging key value pairs in a dictionary
+foreach (KeyValuePair<char, int> kv in letterMap
+ {
+    Console.WriteLine(kv.Key.ToString());
+    Console.WriteLine(kv.Value.ToString());
+ }
+
+ lower casing a string and removing spaces
+ Regex.Replace(myStr.ToLower(), @"\s+", "")

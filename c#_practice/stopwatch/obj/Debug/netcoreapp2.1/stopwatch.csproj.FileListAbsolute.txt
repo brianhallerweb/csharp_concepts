@@ -1,0 +1,11 @@
+/Users/brianhaller/Documents/c#_projects/stopwatch/bin/Debug/netcoreapp2.1/stopwatch.deps.json
+/Users/brianhaller/Documents/c#_projects/stopwatch/bin/Debug/netcoreapp2.1/stopwatch.runtimeconfig.json
+/Users/brianhaller/Documents/c#_projects/stopwatch/bin/Debug/netcoreapp2.1/stopwatch.runtimeconfig.dev.json
+/Users/brianhaller/Documents/c#_projects/stopwatch/bin/Debug/netcoreapp2.1/stopwatch.dll
+/Users/brianhaller/Documents/c#_projects/stopwatch/bin/Debug/netcoreapp2.1/stopwatch.pdb
+/Users/brianhaller/Documents/c#_projects/stopwatch/obj/Debug/netcoreapp2.1/stopwatch.csprojAssemblyReference.cache
+/Users/brianhaller/Documents/c#_projects/stopwatch/obj/Debug/netcoreapp2.1/stopwatch.csproj.CoreCompileInputs.cache
+/Users/brianhaller/Documents/c#_projects/stopwatch/obj/Debug/netcoreapp2.1/stopwatch.AssemblyInfoInputs.cache
+/Users/brianhaller/Documents/c#_projects/stopwatch/obj/Debug/netcoreapp2.1/stopwatch.AssemblyInfo.cs
+/Users/brianhaller/Documents/c#_projects/stopwatch/obj/Debug/netcoreapp2.1/stopwatch.dll
+/Users/brianhaller/Documents/c#_projects/stopwatch/obj/Debug/netcoreapp2.1/stopwatch.pdb

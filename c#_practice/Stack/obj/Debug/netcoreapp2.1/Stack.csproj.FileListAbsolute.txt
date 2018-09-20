@@ -1,0 +1,11 @@
+/Users/brianhaller/Documents/c#_projects/Stack/bin/Debug/netcoreapp2.1/Stack.deps.json
+/Users/brianhaller/Documents/c#_projects/Stack/bin/Debug/netcoreapp2.1/Stack.runtimeconfig.json
+/Users/brianhaller/Documents/c#_projects/Stack/bin/Debug/netcoreapp2.1/Stack.runtimeconfig.dev.json
+/Users/brianhaller/Documents/c#_projects/Stack/bin/Debug/netcoreapp2.1/Stack.dll
+/Users/brianhaller/Documents/c#_projects/Stack/bin/Debug/netcoreapp2.1/Stack.pdb
+/Users/brianhaller/Documents/c#_projects/Stack/obj/Debug/netcoreapp2.1/Stack.csprojAssemblyReference.cache
+/Users/brianhaller/Documents/c#_projects/Stack/obj/Debug/netcoreapp2.1/Stack.csproj.CoreCompileInputs.cache
+/Users/brianhaller/Documents/c#_projects/Stack/obj/Debug/netcoreapp2.1/Stack.AssemblyInfoInputs.cache
+/Users/brianhaller/Documents/c#_projects/Stack/obj/Debug/netcoreapp2.1/Stack.AssemblyInfo.cs
+/Users/brianhaller/Documents/c#_projects/Stack/obj/Debug/netcoreapp2.1/Stack.dll
+/Users/brianhaller/Documents/c#_projects/Stack/obj/Debug/netcoreapp2.1/Stack.pdb
